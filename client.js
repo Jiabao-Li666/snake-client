@@ -18,8 +18,6 @@ const connect = function() {
     console.log('Server says: ', data);
   });
 
-
-
   return conn;
 }
 
